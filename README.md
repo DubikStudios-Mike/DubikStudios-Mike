@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike, the owner and creator of Dubik Studios!
 - 👀 I’m interested in Python and C!
 - 🌱 I’m primarily learning C, but I watch and read about Python sometimes!
-- 💞️ I’m looking for team members who work for free, for now... ;-;
+- 💞️ I’m looking for team members who work for free, for now.
 - 📫 How to reach me: you can message dubikstudios@gmail.com if you're looking to be part of the Dubik Studios dev team!
 
 <!---
